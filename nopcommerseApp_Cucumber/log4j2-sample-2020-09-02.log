@@ -1,0 +1,165 @@
+2020-09-02T16:25:59,071 [main] INFO  (Steps.java:23) - ************* Launching Browser *****************
+2020-09-02T16:26:04,419 [main] INFO  (Steps.java:34) - ************* Opening URL  *****************
+2020-09-02T16:26:08,582 [main] INFO  (Steps.java:42) - ************* Providing user and password *****************
+2020-09-02T16:26:08,946 [main] INFO  (Steps.java:50) - ************* click on login *****************
+2020-09-02T16:26:17,156 [main] INFO  (Steps.java:92) - ********* Verifying Dash board page title after login successful **************
+2020-09-02T16:26:20,255 [main] INFO  (Steps.java:99) - ********* Clicking on customer main menu **************
+2020-09-02T16:26:22,349 [main] INFO  (Steps.java:106) - ********* Clicking on customer sub menu **************
+2020-09-02T16:26:36,132 [main] INFO  (Steps.java:147) - ********* Saving customer details **************
+2020-09-02T16:26:40,740 [main] INFO  (Steps.java:75) - ************* clicking on logout *****************
+2020-09-02T16:26:45,530 [main] INFO  (Steps.java:65) - ************* Login Passed *****************
+2020-09-02T16:26:48,542 [main] INFO  (Steps.java:82) - ************* closing browser *****************
+2020-09-02T16:26:49,358 [main] INFO  (Steps.java:23) - ************* Launching Browser *****************
+2020-09-02T16:26:51,756 [main] INFO  (Steps.java:34) - ************* Opening URL  *****************
+2020-09-02T16:27:00,603 [main] INFO  (Steps.java:42) - ************* Providing user and password *****************
+2020-09-02T16:27:00,900 [main] INFO  (Steps.java:50) - ************* click on login *****************
+2020-09-02T16:27:07,283 [main] INFO  (Steps.java:92) - ********* Verifying Dash board page title after login successful **************
+2020-09-02T16:27:10,482 [main] INFO  (Steps.java:99) - ********* Clicking on customer main menu **************
+2020-09-02T16:27:12,651 [main] INFO  (Steps.java:106) - ********* Clicking on customer sub menu **************
+2020-09-02T16:27:14,320 [main] INFO  (Steps.java:166) - ********* Searching customer details by Email **************
+2020-09-02T16:27:17,935 [main] INFO  (Steps.java:82) - ************* closing browser *****************
+2020-09-02T16:27:18,680 [main] INFO  (Steps.java:23) - ************* Launching Browser *****************
+2020-09-02T16:27:20,898 [main] INFO  (Steps.java:34) - ************* Opening URL  *****************
+2020-09-02T16:27:24,766 [main] INFO  (Steps.java:42) - ************* Providing user and password *****************
+2020-09-02T16:27:25,100 [main] INFO  (Steps.java:50) - ************* click on login *****************
+2020-09-02T16:27:33,203 [main] INFO  (Steps.java:92) - ********* Verifying Dash board page title after login successful **************
+2020-09-02T16:27:36,243 [main] INFO  (Steps.java:99) - ********* Clicking on customer main menu **************
+2020-09-02T16:27:38,392 [main] INFO  (Steps.java:106) - ********* Clicking on customer sub menu **************
+2020-09-02T16:27:40,018 [main] INFO  (Steps.java:191) - ********* Searching customer details by Name **************
+2020-09-02T16:27:43,731 [main] INFO  (Steps.java:214) - ************* Login Passed *****************
+2020-09-02T16:27:43,732 [main] INFO  (Steps.java:82) - ************* closing browser *****************
+2020-09-02T16:27:44,472 [main] INFO  (Steps.java:23) - ************* Launching Browser *****************
+2020-09-02T16:27:46,603 [main] INFO  (Steps.java:34) - ************* Opening URL  *****************
+2020-09-02T16:27:50,545 [main] INFO  (Steps.java:42) - ************* Providing user and password *****************
+2020-09-02T16:27:50,858 [main] INFO  (Steps.java:50) - ************* click on login *****************
+2020-09-02T16:27:57,248 [main] INFO  (Steps.java:65) - ************* Login Passed *****************
+2020-09-02T16:28:00,269 [main] INFO  (Steps.java:75) - ************* clicking on logout *****************
+2020-09-02T16:28:05,119 [main] INFO  (Steps.java:65) - ************* Login Passed *****************
+2020-09-02T16:28:08,133 [main] INFO  (Steps.java:82) - ************* closing browser *****************
+2020-09-02T16:28:08,896 [main] INFO  (Steps.java:23) - ************* Launching Browser *****************
+2020-09-02T16:28:11,262 [main] INFO  (Steps.java:34) - ************* Opening URL  *****************
+2020-09-02T16:28:16,401 [main] INFO  (Steps.java:42) - ************* Providing user and password *****************
+2020-09-02T16:28:16,798 [main] INFO  (Steps.java:50) - ************* click on login *****************
+2020-09-02T16:28:24,388 [main] INFO  (Steps.java:65) - ************* Login Passed *****************
+2020-09-02T16:28:27,399 [main] INFO  (Steps.java:75) - ************* clicking on logout *****************
+2020-09-02T16:28:32,195 [main] INFO  (Steps.java:65) - ************* Login Passed *****************
+2020-09-02T16:28:35,209 [main] INFO  (Steps.java:82) - ************* closing browser *****************
+2020-09-02T16:28:35,959 [main] INFO  (Steps.java:23) - ************* Launching Browser *****************
+2020-09-02T16:28:38,379 [main] INFO  (Steps.java:34) - ************* Opening URL  *****************
+2020-09-02T16:28:42,322 [main] INFO  (Steps.java:42) - ************* Providing user and password *****************
+2020-09-02T16:28:42,654 [main] INFO  (Steps.java:50) - ************* click on login *****************
+2020-09-02T16:28:44,002 [main] INFO  (Steps.java:59) - ************* Login failed *****************
+2020-09-02T17:24:03,094 [main] INFO  (Steps.java:37) - ********* starting TC on chrome*************
+2020-09-02T17:24:14,311 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:24:14,424 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:24:20,976 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:24:21,917 [main] INFO  (Steps.java:99) - ************* click on login *****************
+2020-09-02T17:24:34,144 [main] INFO  (Steps.java:141) - ********* Verifying Dash board page title after login successful **************
+2020-09-02T17:24:37,163 [main] INFO  (Steps.java:148) - ********* Clicking on customer main menu **************
+2020-09-02T17:24:39,254 [main] INFO  (Steps.java:155) - ********* Clicking on customer sub menu **************
+2020-09-02T17:24:53,596 [main] INFO  (Steps.java:196) - ********* Saving customer details **************
+2020-09-02T17:25:00,340 [main] INFO  (Steps.java:124) - ************* clicking on logout *****************
+2020-09-02T17:25:05,922 [main] INFO  (Steps.java:114) - ************* Login Passed *****************
+2020-09-02T17:25:08,940 [main] INFO  (Steps.java:131) - ************* closing browser *****************
+2020-09-02T17:25:09,711 [main] INFO  (Steps.java:37) - ********* starting TC on chrome*************
+2020-09-02T17:25:11,955 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:25:11,957 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:25:16,014 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:25:16,289 [main] INFO  (Steps.java:99) - ************* click on login *****************
+2020-09-02T17:25:23,924 [main] INFO  (Steps.java:141) - ********* Verifying Dash board page title after login successful **************
+2020-09-02T17:25:26,941 [main] INFO  (Steps.java:148) - ********* Clicking on customer main menu **************
+2020-09-02T17:25:29,067 [main] INFO  (Steps.java:155) - ********* Clicking on customer sub menu **************
+2020-09-02T17:25:32,513 [main] INFO  (Steps.java:215) - ********* Searching customer details by Email **************
+2020-09-02T17:25:36,091 [main] INFO  (Steps.java:131) - ************* closing browser *****************
+2020-09-02T17:25:36,763 [main] INFO  (Steps.java:37) - ********* starting TC on chrome*************
+2020-09-02T17:25:38,936 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:25:38,938 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:25:42,755 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:25:43,115 [main] INFO  (Steps.java:99) - ************* click on login *****************
+2020-09-02T17:25:49,121 [main] INFO  (Steps.java:141) - ********* Verifying Dash board page title after login successful **************
+2020-09-02T17:25:52,136 [main] INFO  (Steps.java:148) - ********* Clicking on customer main menu **************
+2020-09-02T17:25:54,265 [main] INFO  (Steps.java:155) - ********* Clicking on customer sub menu **************
+2020-09-02T17:25:57,205 [main] INFO  (Steps.java:240) - ********* Searching customer details by Name **************
+2020-09-02T17:26:00,867 [main] INFO  (Steps.java:263) - ************* Login Passed *****************
+2020-09-02T17:26:00,867 [main] INFO  (Steps.java:131) - ************* closing browser *****************
+2020-09-02T17:26:52,940 [main] INFO  (Steps.java:59) - ********* starting TC on edge*************
+2020-09-02T17:26:55,096 [main] INFO  (Steps.java:59) - ********* starting TC on edge*************
+2020-09-02T17:26:55,707 [main] INFO  (Steps.java:59) - ********* starting TC on edge*************
+2020-09-02T17:27:45,366 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:27:54,253 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:27:54,285 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:27:54,508 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:27:55,244 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:27:59,291 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:27:59,298 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:27:59,427 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:27:59,808 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:28:03,913 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:28:03,916 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:28:04,038 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:42:24,459 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:42:33,110 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:42:36,537 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:42:53,374 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:42:57,611 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:43:01,057 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:43:44,318 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:43:48,573 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:43:52,196 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:44:28,822 [main] INFO  (Steps.java:59) - ********* starting TC on edge*************
+2020-09-02T17:44:30,115 [main] INFO  (Steps.java:59) - ********* starting TC on edge*************
+2020-09-02T17:44:30,713 [main] INFO  (Steps.java:59) - ********* starting TC on edge*************
+2020-09-02T17:45:39,989 [main] INFO  (Steps.java:37) - ********* starting TC on chrome*************
+2020-09-02T17:45:44,550 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:45:44,572 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:45:48,581 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:45:48,865 [main] INFO  (Steps.java:99) - ************* click on login *****************
+2020-09-02T17:45:55,860 [main] INFO  (Steps.java:114) - ************* Login Passed *****************
+2020-09-02T17:45:58,874 [main] INFO  (Steps.java:124) - ************* clicking on logout *****************
+2020-09-02T17:46:03,621 [main] INFO  (Steps.java:114) - ************* Login Passed *****************
+2020-09-02T17:46:06,640 [main] INFO  (Steps.java:131) - ************* closing browser *****************
+2020-09-02T17:46:07,413 [main] INFO  (Steps.java:37) - ********* starting TC on chrome*************
+2020-09-02T17:46:09,641 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:46:09,643 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:46:13,728 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:46:14,031 [main] INFO  (Steps.java:99) - ************* click on login *****************
+2020-09-02T17:46:21,860 [main] INFO  (Steps.java:114) - ************* Login Passed *****************
+2020-09-02T17:46:24,881 [main] INFO  (Steps.java:124) - ************* clicking on logout *****************
+2020-09-02T17:46:29,745 [main] INFO  (Steps.java:114) - ************* Login Passed *****************
+2020-09-02T17:46:32,753 [main] INFO  (Steps.java:131) - ************* closing browser *****************
+2020-09-02T17:46:33,559 [main] INFO  (Steps.java:37) - ********* starting TC on chrome*************
+2020-09-02T17:46:35,810 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:46:35,812 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:46:39,775 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:46:40,110 [main] INFO  (Steps.java:99) - ************* click on login *****************
+2020-09-02T17:46:41,566 [main] INFO  (Steps.java:108) - ************* Login failed *****************
+2020-09-02T17:53:36,778 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:53:41,355 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:53:43,591 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:54:22,350 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:54:25,209 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:54:27,459 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:56:10,812 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:56:16,620 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:56:16,653 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:56:16,891 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:56:17,473 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:56:22,593 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:56:22,595 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:56:22,665 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:56:23,046 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:56:29,015 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:56:29,019 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:56:29,113 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:57:04,591 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:57:10,457 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:57:10,490 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:57:10,558 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:57:10,948 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:57:16,049 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:57:16,058 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:57:16,160 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+2020-09-02T17:57:16,602 [main] INFO  (Steps.java:51) - ********* starting TC on ie*************
+2020-09-02T17:57:21,829 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+2020-09-02T17:57:21,836 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+2020-09-02T17:57:21,927 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************

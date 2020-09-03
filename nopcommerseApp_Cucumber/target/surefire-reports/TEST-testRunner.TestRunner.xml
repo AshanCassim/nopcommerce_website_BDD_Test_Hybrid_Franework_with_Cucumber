@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="3" failures="1" name="testRunner.TestRunner" time="65.458" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\bin"/>
+    <property name="java.vm.version" value="25.172-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Eclipse\eclipse\workspace\nopcommerseApp_Cucumber"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Eclipse\eclipse\workspace\nopcommerseApp_Cucumber"/>
+    <property name="java.runtime.version" value="1.8.0_172-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Ashan\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\apache-maven-3.6.3\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_172\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Python37;C:\Python37\Scripts;C:\Program Files\nodejs\;C:\Program Files (x86)\Brackets\command;C:\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\bin;C:\Program Files\Java\jdk1.8.0_172\lib;C:\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\bin;C:\apache-maven-3.6.3\bin\;C:\Program Files\Java\jdk1.8.0_172;C:\Program Files\Java\jdk1.8.0_172;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_11\bin;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_11\bin;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_11\bin;C:\Program Files\Java\jdk1.8.0_172\bin;C:\Users\Ashan\AppData\Local\Microsoft\WindowsApps;C:\Python37;C:\Python37\Scripts;C:\Users\Ashan\AppData\Local\Programs\Microsoft VS Code\;C:\Users\Ashan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Ashan\AppData\Roaming\npm;."/>
+    <property name="maven.conf" value="C:\apache-maven-3.6.3\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\apache-maven-3.6.3\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Ashan"/>
+    <property name="user.timezone" value="Asia/Colombo"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="Ashan"/>
+    <property name="java.class.path" value="C:\apache-maven-3.6.3\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_172\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_172"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_172\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_172\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_172\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\apache-maven-3.6.3\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="Login" name="Successful Login with Valid Credentials" time="30.187"/>
+  <testcase classname="Login" name="Login Data Driven #1" time="27.25"/>
+  <testcase classname="Login" name="Login Data Driven #2" time="8.021">
+    <failure type="java.lang.AssertionError">java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at stepDefinitions.Steps.page_Title_should_be(Steps.java:110)
+	at ✽.Page Title should be &quot;Dashboard / nopCommerce administration&quot;(file:///C:/Eclipse/eclipse/workspace/nopcommerseApp_Cucumber/./Features/Login.feature:22)
+</failure>
+    <system-out>
+@regression
+Scenario Outline: Login Data Driven                                          # Features/Login.feature:30
+2020-09-03T10:47:16,498 [main] INFO  (Steps.java:37) - ********* starting TC on chrome*************
+[INFO] Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+[INFO] ====&gt; http://tiny.cc/wdm-survey &lt;====
+[DEBUG] Resolution chrome=84 in cache (valid until 17:45:41 03/09/2020 IST)
+[INFO] Using chromedriver 84.0.4147.30 (since Chrome 84 is installed in your machine)
+[DEBUG] Driver chromedriver 84.0.4147.30 found in cache
+[INFO] Exporting webdriver.chrome.driver as C:\Users\Ashan\.m2\repository\webdriver\chromedriver\win32\84.0.4147.30\chromedriver.exe
+2020-09-03T10:47:18,793 [main] INFO  (Steps.java:75) - ************* Launching Browser *****************
+  Given User Launch Chrome browser                                           # stepDefinitions.Steps.user_Launch_Chrome_browser()
+2020-09-03T10:47:18,795 [main] INFO  (Steps.java:83) - ************* Opening URL  *****************
+  When User opens URL &quot;http://admin-demo.nopcommerce.com/login&quot;              # stepDefinitions.Steps.user_opens_URL(java.lang.String)
+2020-09-03T10:47:22,441 [main] INFO  (Steps.java:91) - ************* Providing user and password *****************
+  And User enters Email as &quot;admin1@yourstore.com&quot; and Password as &quot;admin123&quot; # stepDefinitions.Steps.user_enters_Email_as_and_Password_as(java.lang.String,java.lang.String)
+2020-09-03T10:47:22,782 [main] INFO  (Steps.java:99) - ************* click on login *****************
+  And Click on Login                                                         # stepDefinitions.Steps.click_on_Login()
+2020-09-03T10:47:24,270 [main] INFO  (Steps.java:108) - ************* Login failed *****************
+  Then Page Title should be &quot;Dashboard / nopCommerce administration&quot;         # stepDefinitions.Steps.page_Title_should_be(java.lang.String)
+      java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at stepDefinitions.Steps.page_Title_should_be(Steps.java:110)
+	at âœ½.Page Title should be &quot;Dashboard / nopCommerce administration&quot;(file:///C:/Eclipse/eclipse/workspace/nopcommerseApp_Cucumber/./Features/Login.feature:22)
+
+  When User click on Log out link                                            # stepDefinitions.Steps.user_click_on_Log_out_link()
+  Then Page Title should be &quot;Your store. Login&quot;                              # stepDefinitions.Steps.page_Title_should_be(java.lang.String)
+  And close browser                                                          # stepDefinitions.Steps.close_browser()
+</system-out>
+    <system-err>Starting ChromeDriver 84.0.4147.30 (48b3e868b4cc0aa7e8149519690b6f6949e110a8-refs/branch-heads/4147@{#310}) on port 24291
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 03, 2020 10:47:18 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+</system-err>
+  </testcase>
+</testsuite>

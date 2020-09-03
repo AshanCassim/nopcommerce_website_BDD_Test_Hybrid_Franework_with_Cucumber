@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 66.718 sec <<< FAILURE!
+Login Data Driven #2(Login)  Time elapsed: 8.021 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at stepDefinitions.Steps.page_Title_should_be(Steps.java:110)
+	at ?.Page Title should be "Dashboard / nopCommerce administration"(file:///C:/Eclipse/eclipse/workspace/nopcommerseApp_Cucumber/./Features/Login.feature:22)
+
