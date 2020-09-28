@@ -1,5 +1,4 @@
-# nopcommerce_website_BDD_Test_Hybrid_Franework_with_Cucumber
-BDD Test Hybrid Framework For "nopcommerce" Website with Cucumber
+# BDD Test Hybrid Framework For "nopcommerce" Website with Cucumber
 Aug 2020 – Sep 2020
 
 Project descriptionThis is a Hybrid Framework with BDD approach For “nopcommerce” website’s  
